@@ -33,3 +33,7 @@ Student Research In DEpartments (STRIDE), Smith College Dept. of Physics 2019-20
 Designed and fabricated custom lab equipment in a machine shop. Performed soldering under a
 microscope. Evaluated and modified test probe electronics and wiring.
 Research Advisor: Dr. Nathanael Fortune
+
+
+Using Arduino to Teach Mechatronics
+Apprenticeships in Science and Engineering, Oregon State University, Corvallis OR
