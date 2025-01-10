@@ -9,6 +9,8 @@
 
 [Skills](./blocks/skills_block.md)
 
+[Certifications](./blocks/certifications_block.md)
+
 [Research](./blocks/research_block.md) and [Workshops](./blocks/workshops_block.md)
 
 [Employment Experience](./blocks/experience_block.md)
