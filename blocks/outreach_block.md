@@ -1,4 +1,6 @@
 ### OUTREACH
+Letters to a Pre-Scientist
+
 recent outreach - Family Science Day, 2 years of GSI and PING mentorship, GBT tours, star parties (include Mission2Mars Canaan Star Party!)
 
 2023 Introduce A Girl To Engineering Day (IGTED), Volunteer Northampton, MA
