@@ -1,4 +1,4 @@
-### CERTIFICATIONS
+## CERTIFICATIONS
 **Techincal Rope Rescue Operations**\
 October 2024\
 Rope Rescue course, Safety Educators LLC
