@@ -1,4 +1,4 @@
-## LEADERSHIP
+### LEADERSHIP
 2022 Smith College Jewish Community, Co-Chair Northampton, MA
 Planned and led religious services hosted on campus. Organized and led a special “Sensory Shabbat” designed
 to center the needs and experiences of students with autism and other disabilities.
