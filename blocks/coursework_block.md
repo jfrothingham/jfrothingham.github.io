@@ -1,8 +1,8 @@
 ### COURSEWORK
 
 **Course highlights**\
-Engineering mechanics, circuit theory, thermodynamics\ 
-Physics through quantum mechanics\ 
+Engineering mechanics, circuit theory, thermodynamics\
+Physics through quantum mechanics\
 Mathematics through multivariate calculus\
 Introductory chemistry\
 Astronomy including telescopes and astrophysics
