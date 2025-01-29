@@ -32,4 +32,4 @@ Designed and fabricated custom lab equipment in a machine shop. Performed solder
 **Using Arduino to Teach Mechatronics**\
 *Apprenticeships in Science and Engineering, Oregon State University, Corvallis OR*\
 research description here\
-*Research Advisor: Dr. Burak Sencer*\
+*Research Advisor: Dr. Burak Sencer*
