@@ -17,7 +17,7 @@ Demonstrated statistical concepts through collaborative Python programming in Ju
 Project titles:\
 ● Investigation of Links Between Brightness and Orbits in Comets\
 ● Exoplanet Distributions in Systems of Massive Host Stars\
-● Redesign of Decadal Survey Figure: Impacts of Well-Organized Data Archives\
+● Redesign of Decadal Survey Figure: Impacts of Well-Organized Data Archives
 
 
 **Astronomy & Public Policy**\
