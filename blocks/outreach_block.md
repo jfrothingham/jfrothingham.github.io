@@ -20,6 +20,9 @@ Robotics Competition Judging
 star parties (include Mission2Mars Canaan Star Party!)
 
 
+Eclipse party
+
+
 2023 Introduce A Girl To Engineering Day (IGTED), Volunteer Northampton, MA
 Worked directly with parents and middle school girls to facilitate science activities. Child-safety certification.
 
