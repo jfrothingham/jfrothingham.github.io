@@ -25,7 +25,7 @@ Optimized Python code characterizing resistive thermometers’ response to magne
 
 **Experimental Measurements of Phase Transitions in Superconductors Under Extreme Conditions**\
 *STudent Research In DEpartments (STRIDE), Smith College Dept. of Physics*\
-Designed and fabricated custom lab equipment in a machine shop. Performed soldering under a microscope. Evaluated and modified test probe electronics and wiring.
+Designed and fabricated custom lab equipment in a machine shop. Performed soldering under a microscope. Evaluated and modified test probe electronics and wiring.\
 *Research Advisor: Dr. Nathanael Fortune*
 
 
