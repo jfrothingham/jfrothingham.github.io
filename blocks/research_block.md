@@ -1,4 +1,4 @@
-### RESEARCH
+## RESEARCH
 **Microwave Photonic Synthesizer Characterization for Applications in Radio Astronomy Instrumentation**\
 *National Radio Astronomy Observatory (NRAO) Research Experience for Undergraduates*\
 Tested and characterized laser source for potential use as ngVLA (next-generation Very Large Array) local oscillator. Presented findings to external engineering representatives and NRAO mentors.\

@@ -1,7 +1,7 @@
-### SKILLS
+## SKILLS
 Languages:\
-* Proficiency in German\
-* Limited studies in written and spoken Yiddish\
+Proficiency in German\
+Limited studies in written and spoken Yiddish\
 \
 Electronics:\
 Arduino, breadboard, soldering, printed circuit board design. Motors, sensors, LEDs.\

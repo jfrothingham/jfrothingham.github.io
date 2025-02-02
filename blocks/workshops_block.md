@@ -1,4 +1,4 @@
-### WORKSHOPS
+## WORKSHOPS
 **Synthesis Imaging Workshop**\
 National Radio Astronomy Observatory, Socorro NM\
 May 2024

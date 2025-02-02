@@ -1,4 +1,4 @@
-### COURSEWORK
+## COURSEWORK
 
 **Course highlights**\
 Engineering mechanics, circuit theory, thermodynamics\
