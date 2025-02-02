@@ -2,7 +2,8 @@
 **Microwave Photonic Synthesizer Characterization for Applications in Radio Astronomy Instrumentation**\
 *National Radio Astronomy Observatory (NRAO) Research Experience for Undergraduates*\
 Tested and characterized laser source for potential use as ngVLA (next-generation Very Large Array) local oscillator. Presented findings to external engineering representatives and NRAO mentors.\
-*Research Mentor: William Shillue*
+*Research Mentor: William Shillue*\
+*[Supporting materials available](https://github.com/jfrothingham/NRAO-REU-2022)*
 
 
 **A Circuit Board Printer for Muon Detector Construction and Classroom Use**\
