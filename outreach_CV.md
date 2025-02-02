@@ -1,4 +1,4 @@
-# Jay Aronow Frothingham
+# Outreach CV
 [Contact](./blocks/contact_block.md)
 
 [Education](./blocks/education_block.md)
