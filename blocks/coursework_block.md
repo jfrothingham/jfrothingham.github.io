@@ -1,12 +1,10 @@
 ## COURSEWORK
 
 **Course highlights**\
-Engineering mechanics, circuit theory, thermodynamics\
 Physics through quantum mechanics\
 Mathematics through multivariate calculus\
-Engineering mechanics, circuit theory, thermodynamics\
-Introductory chemistry\
-Astronomy including telescopes and astrophysics
+Astronomy including telescopes and astrophysics\
+Engineering mechanics, circuit theory, thermodynamics
 
 
 **Observational Techniques in Optical and Infrared Astronomy**\

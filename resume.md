@@ -7,9 +7,5 @@
 
 :[Research](./blocks/research_block.md)
 
-:[Workshops](./blocks/workshops_block.md)
-
-:[Coursework](./blocks/coursework_block.md)
-
 :[Publications](./blocks/publications_block.md)
 
