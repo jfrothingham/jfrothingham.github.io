@@ -4,6 +4,7 @@
 Engineering mechanics, circuit theory, thermodynamics\
 Physics through quantum mechanics\
 Mathematics through multivariate calculus\
+Engineering mechanics, circuit theory, thermodynamics\
 Introductory chemistry\
 Astronomy including telescopes and astrophysics
 
@@ -14,10 +15,10 @@ Programmed data reduction pipeline in Python. Observed open star cluster M34 usi
 
 **Astronomical Data Science**\
 Demonstrated statistical concepts through collaborative Python programming in Jupyter notebooks and Google Colab. Independent projects using real-world data with scientific-style papers and presentations. Focus on best practices in written and visual communication of data.\
-Project titles:\
-● Investigation of Links Between Brightness and Orbits in Comets\
-● Exoplanet Distributions in Systems of Massive Host Stars\
-● Redesign of Decadal Survey Figure: Impacts of Well-Organized Data Archives
+Project titles:
+- Investigation of Links Between Brightness and Orbits in Comets
+- Exoplanet Distributions in Systems of Massive Host Stars
+- Redesign of Decadal Survey Figure: Impacts of Well-Organized Data Archives
 
 
 **Astronomy & Public Policy**\
