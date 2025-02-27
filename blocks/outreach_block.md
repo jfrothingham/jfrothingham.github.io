@@ -1,33 +1,56 @@
 ## OUTREACH
-Letters to a Pre-Scientist
+**Letters to a Pre-Scientist Program, Pen Pal**\
+*DATES*\
+DESCRIPTION HERE
 
 
-Family Science Day
+**WV Governor's School Institute (GSI) and Physicists Inspiring the Next Generation (PING), Mentor**\
+*DATES // Green Bank, WV*\
+DESCRIPTION HERE
 
 
-2 years of GSI and PING mentorship
+**Pocahontas County Science Fair, Judge**\
+*DATE // Green Bank, WV*\
+DESCRIPTION HERE
 
 
-GBT tours
+**VEX Robotics Competition, Judge**\
+*DATE // Green Bank, WV*\
+DESCRIPTION HERE
 
 
-County Science Fair Judging
+**Green Bank Observatory Telescope Tours, Guide and Photographer**\
+*DATES // Green Bank, WV*\
+DESCRIPTION HERE
 
 
-Robotics Competition Judging
+**Green Bank Observatory Solar Eclipse Party, Volunteer**\
+*DATE // Green Bank, WV*\
+DESCRIPTION HERE
 
 
-star parties (include Mission2Mars Canaan Star Party!)
+**Green Bank Observatory Star Parties, Volunteer**\
+*DATES // Green Bank, WV and Canaan Valley, WV*\
+DESCRIPTION HERE. (include Mission2Mars Canaan Star Party!)
 
 
-Eclipse party
+**Green Bank Observatory SETI Tours, Presenter**\
+*DATES // Green Bank, WV*\
+DESCRIPTION HERE
 
 
-2023 Introduce A Girl To Engineering Day (IGTED), Volunteer Northampton, MA
+**Green Bank Obsevatory Family Science Day, Volunteer**\
+*DATE // Green Bank, WV*\
+DESCRIPTION HERE
+
+
+**Introduce A Girl To Engineering Day (IGTED), Volunteer**\
+*2023 // Northampton, MA*\
 Worked directly with parents and middle school girls to facilitate science activities. Child-safety certification.
 
 
-2018, 2019 Girl Scout Brownie/Junior Robotics Badge Day, Organizer, Volunteer Corvallis, OR
+**Girl Scout Brownie/Junior Robotics Badge Day, Organizer, Volunteer**\
+*2018-19 // Corvallis, OR*\
 Developed hands-on physics, programming, and design activities within published requirements for completion
 of Robotics Badges. Taught physics to Girl Scouts aged 7-12 through building simple machines and catapults.
 
