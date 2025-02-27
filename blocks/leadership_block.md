@@ -1,5 +1,5 @@
 ## LEADERSHIP
-**Smith College Jewish Community, Co-Chair**\ 
+**Smith College Jewish Community, Co-Chair**\
 *2022, Northampton, MA*\
 Planned and led religious services hosted on campus. Organized and led a special “Sensory Shabbat” designed
 to center the needs and experiences of students with autism and other disabilities.
@@ -21,14 +21,14 @@ Implemented workflow changes to improve team culture surrounding stress manageme
 Provided support and mentorship to other LGBTQIA+ students on the team.
 
 
-**FIRST Force Robotics Scrimmage, Organizer, Pit Manager**\ 
+**FIRST Force Robotics Scrimmage, Organizer, Pit Manager**\
 *2019, Corvallis, OR*\
 Hosted over a dozen high school robotics teams in a showcase event open to the public. Planned logistics and
 directed all event volunteers. Arranged local media coverage of the event. Organized and participated in event
 setup and cleanup. Served as contact person for attendees needing assistance during the event.
 
 
-**Benton Girl Scout Day Camp, Program Assistant**\ 
+**Benton Girl Scout Day Camp, Program Assistant**\
 *2015-16, Corvallis, OR*\
 Supervised a dozen Girl Scouts aged 11-13 in a rural day camp setting with one night of overnight camping.
 Safely taught wilderness skills including whittling, fire starting, and knot-tying. Assisted other Program
