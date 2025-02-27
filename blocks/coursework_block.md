@@ -36,4 +36,4 @@ Upper-level elective covering signal processing techniques. Labs and data analys
 
 
 **Electronics Lab**\
-description here
+Hands-on physics course covering AC circuits, DC circuits, semiconductors, and amplifiers through projects and lectures. Project videos available [here.](https://youtube.com/playlist?list=PLO8OYopm6CLzEvS_EEiAig1PXHBe6Y2V-&si=fjuxHdKG-yCm6hrz)
