@@ -1,27 +1,19 @@
 ## EMPLOYMENT
-Scientific Data Analyst, Green Bank Observatory\
-Green Bank WV\
-May 2023 - Present\
-DAN'S DESCRIPTION:
-Assist observatory users by performing routine to complex data reduction, data quality assessment and preparation of
-observing scripts.
-Assist scientific staff with testing or software and procedures for user support and/or telescope operations.
-Maintain documentation/archives and web pages of data products; assists users by having a working knowledge of all
-relevant user software for NRAO instruments for proposal submission, observation preparation, and post-processing data
-reduction.
-Ensure appropriate and timely responses to user queries to the helpdesk by providing response, referral, and follows up on
-open queries.
-Train new users on how to perform observations using the Green Bank Telescope.
+**Scientific Data Analyst, Green Bank Observatory**\
+*May 2023 - Present // Green Bank WV*\
+Scientific and operational support of the Green Bank Telescope. Help radio astronomers prepare their observations, including writing observing scripts. Troubleshoot critical telescope issues as the "On-call Support Scientist." Provide technical training to new Observatory staff and scientists. Perform specialty observations (radar, interferometric imaging). Regularly assess telescope performance and data quality. Test and develop new telescope capabilities alongside software and hardware engineers. Review telescope time proposals on a technical basis. Oversee the proposal handling process from proposal submission to science reviews to time allocation decisions to project creation. Prepare and correct daily telescope observing schedules. Provide access to archival data, data products, and documentation upon request. Teach and promote best practices in radio data reduction. 
 
-\
-Student Researcher, Smith College Physics Department\
-Northampton MA\
-September 2019 - September 2021\
-\
-Hardware Engineering Intern, HP, Inc.\
-Corvallis OR\
-Summer 2019\
-\
-Electrical Engineering Intern, HP, Inc.\
-Corvallis OR\
-Summer 2018
+
+**Student Researcher, Smith College Physics Department**\
+*September 2019 - September 2021 // Northampton MA*\
+Complete independent research on several projects. Mechanical and electrical fabrication, circuit board design, software development, and soldering under a microscope. Train and mentor new lab members. Lead lab meetings in-person and remotely. Present results to other researchers.
+
+
+**Hardware Engineering Intern, HP, Inc.**\
+*Summer 2019 // Corvallis OR*\
+Optimize printer drum testbed control settings to improve motor torque and performance, allowing for more efficient testing.
+
+
+**Electrical Engineering Intern, HP, Inc.**\
+*Summer 2018 // Corvallis OR*\
+Program FPGAs (Field Programmable Gate Arrays) to control and debug custom components. Revise circuit board designs using powerful PCB design software.
