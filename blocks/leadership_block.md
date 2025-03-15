@@ -1,4 +1,8 @@
 ## LEADERSHIP
+**Green Bank Observatory Rope Rescue Team, Volunteer Responder**\
+*2024-present // Green Bank, WV*\
+Trained to respond to emergencies at the Green Bank Observatory, an extremely remote rural location. Due to the nature of work performed onsite, emergencies can occur up to 500ft in the air, in areas accessible only with a rope and harness, and with limited medical personnel available. 
+
 **Smith College Jewish Community, Co-Chair**\
 *2022 // Northampton, MA*\
 Planned and led religious services hosted on campus. Organized and led a special “Sensory Shabbat” designed
@@ -21,15 +25,8 @@ Implemented workflow changes to improve team culture surrounding stress manageme
 Provided support and mentorship to other LGBTQIA+ students on the team.
 
 
-**FIRST Force Robotics Scrimmage, Organizer, Pit Manager**\
-*2019 // Corvallis, OR*\
-Hosted over a dozen high school robotics teams in a showcase event open to the public. Planned logistics and
-directed all event volunteers. Arranged local media coverage of the event. Organized and participated in event
-setup and cleanup. Served as contact person for attendees needing assistance during the event.
-
-
 **Benton Girl Scout Day Camp, Program Assistant**\
 *2015-16 // Corvallis, OR*\
-Supervised a dozen Girl Scouts aged 11-13 in a rural day camp setting with one night of overnight camping.
-Safely taught wilderness skills including whittling, fire starting, and knot-tying. Assisted other Program
+Supervised a dozen Girl Scouts aged 11-13 in an outdoor day camp setting with one night of overnight camping.
+Safely taught wilderness skills including whittling, fire starting, and knot-tying. Led off-site hiking. Assisted other Program
 Assistants in teaching and leading songs and activities.
