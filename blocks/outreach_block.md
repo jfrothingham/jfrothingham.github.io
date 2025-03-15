@@ -51,13 +51,10 @@ Worked directly with parents and middle school girls to facilitate science activ
 
 **FIRST Force Robotics Scrimmage, Organizer, Pit Manager**\
 *2019 // Corvallis, OR*\
-Hosted over a dozen high school robotics teams in a showcase event open to the public. Planned logistics and
-directed all event volunteers. Arranged local media coverage of the event. Organized and participated in event
-setup and cleanup. Served as contact person for attendees needing assistance during the event.
+Hosted over a dozen high school robotics teams in a showcase event open to the public. Planned logistics and directed all event volunteers. Arranged local media coverage of the event. Organized and participated in event setup and cleanup. Served as contact person for attendees needing assistance during the event.
 
 
 **Girl Scout Brownie/Junior Robotics Badge Day, Organizer, Volunteer**\
 *2018-19 // Corvallis, OR*\
-Developed hands-on physics, programming, and design activities within published requirements for completion
-of Robotics Badges. Taught physics to Girl Scouts aged 7-12 through building simple machines and catapults.
+Developed hands-on physics, programming, and design activities within published requirements for completion of Robotics Badges. Taught physics to Girl Scouts aged 7-12 through building simple machines and catapults.
 

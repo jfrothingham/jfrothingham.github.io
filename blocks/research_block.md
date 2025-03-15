@@ -2,7 +2,7 @@
 **Microwave Photonic Synthesizer Characterization for Applications in Radio Astronomy Instrumentation**\
 *National Radio Astronomy Observatory (NRAO) Research Experience for Undergraduates*\
 Tested and characterized laser source for potential use as ngVLA (next-generation Very Large Array) local oscillator. Presented findings to external engineering representatives and NRAO mentors.\
-*Research Mentor: William Shillue*\
+*Research Mentor: William Shillue*
 
 
 **A Circuit Board Printer for Muon Detector Construction and Classroom Use**\
@@ -31,5 +31,5 @@ Designed and fabricated custom lab equipment in a machine shop. Performed solder
 
 **Using Arduino to Teach Mechatronics**\
 *Apprenticeships in Science and Engineering, Oregon State University, Corvallis OR*\
-research description here\
+Developed a hands-on, Arduino-based system for use in Oregon State University’s “Computer Control of Manufacturing Processes” class, teaching undergraduate engineering students fundamentals of industrial mechatronic systems including servo motion control using various types of sensors and feedback control components commonly used in manufacturing industries.
 *Research Advisor: Dr. Burak Sencer*
