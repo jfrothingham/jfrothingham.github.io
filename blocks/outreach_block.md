@@ -31,7 +31,6 @@ Assisted local community members in safely viewing the sun through a filtered te
 
 **Green Bank Observatory Star Parties, Volunteer**\
 *2024-present // Green Bank, WV and Canaan Valley, WV*\
-DESCRIPTION HERE. (include Mission2Mars Canaan Star Party!)
 Operate optical telescopes to assist up to 60 amateur astronomers and students in observing the night sky. Typical monthly star parties include viewing the Moon, various planets, and naked-eye observations of the Milky Way, often in support of scout merit badge awards. Led a star party at the Canaan Valley National Wildlife Refuge as part of the NASA-funded Mission2Mars program.
 
 
