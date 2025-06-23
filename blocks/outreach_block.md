@@ -5,7 +5,7 @@ Exchanged letters over the course of a school year with a middle school student 
 
 
 **WV Governor's School Institute (GSI) and Physicists Inspiring the Next Generation (PING), Mentor**\
-*Summer 2023, 2024 // Green Bank, WV*\
+*Summers 2023-2025 // Green Bank, WV*\
 Mentored small groups of rising 9th graders as they learned the fundamentals of radio astronomy. Helped them set up and interpret their own astronomical observations with a 40ft-diameter radio telescope. GSI and PING are multi-week, residential summer camps held annually at the Green Bank Observatory.
 
 
