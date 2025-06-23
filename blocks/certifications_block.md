@@ -1,4 +1,12 @@
 ## CERTIFICATIONS
+**Green Bank Observatory Rope Rescue Team, Volunteer Responder**\
+2024-present\
+Trained to respond to emergencies at the Green Bank Observatory, an extremely remote rural location. Due to the nature of work performed onsite, emergencies can occur up to 500ft in the air, in areas accessible only with a rope and harness, and with limited medical personnel available. 
+
+**BFD (Bartow, Frank, Durbin) Volunteer Fire Department, Probationary Member**\
+2025-present\
+*Further details coming soon*
+
 **Techincal Rope Rescue Operations**\
 October 2024\
 Rope Rescue course, Safety Educators LLC
