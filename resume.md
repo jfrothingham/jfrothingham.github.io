@@ -7,5 +7,6 @@
 
 :[Research](./blocks/research_block.md)
 
-:[Publications](./blocks/publications_block.md)
+:[Skills](./blocks/skills_block.md)
+
 
