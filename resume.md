@@ -9,4 +9,6 @@
 
 :[Skills](./blocks/skills_block.md)
 
+:[Publications](./blocks/publications_block.md)
+
 
