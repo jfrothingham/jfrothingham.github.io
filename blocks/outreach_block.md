@@ -20,7 +20,7 @@ Judged middle and high school robotics students on their iterative design proces
 
 
 **Green Bank Observatory Telescope Tours, Guide and Photographer**\
-*2023-present // Green Bank, WV*\
+*2023-2025 // Green Bank, WV*\
 Guide visiting students and astronomers on safety-sensitive tours of the Green Bank Telescope, up to 450ft in elevation. Provide historical and scientific information on the telescope's design, construction, and operation. Authorized to photograph visitors at several key locations on the telescope structure.
 
 
@@ -30,18 +30,18 @@ Assisted local community members in safely viewing the sun through a filtered te
 
 
 **Green Bank Observatory Star Parties, Volunteer**\
-*2024-present // Green Bank, WV and Canaan Valley, WV*\
+*2024-2025 // Green Bank, WV and Canaan Valley, WV*\
 Operate optical telescopes to assist up to 60 amateur astronomers and students in observing the night sky. Typical monthly star parties include viewing the Moon, various planets, and naked-eye observations of the Milky Way, often in support of scout merit badge awards. Led a star party at the Canaan Valley National Wildlife Refuge as part of the NASA-funded Mission2Mars program.
 
 
 **Green Bank Observatory SETI Tours, Presenter**\
-*Summer 2024 // Green Bank, WV*\
+*2024-2025 // Green Bank, WV*\
 Gave 30-minute presentations on the history and theory of the search for extraterrestrial intelligence (SETI), with a focus on the Drake Equation and the implications of current search methods in readio astronomy. Presentations given to a general public audience following in-depth tours of telescopes at the Green Bank Observatory historically used in SETI projects.
 
 
 **Green Bank Obsevatory Family Science Day, Volunteer**\
-*2023 // Green Bank, WV*\
-Led activities at the Green Bank Observatory Science Center to engage local families. Demonstrated properties of materials and wavelengths using an infrared (IR) camera.
+*2023, 2025 // Green Bank, WV*\
+Led activities at the Green Bank Observatory Science Center to engage local families. Demonstrated properties of materials and wavelengths using an infrared (IR) camera. Gave ground-based tours of the Green Bank Telescope.
 
 
 **Introduce A Girl To Engineering Day (IGTED), Volunteer**\
