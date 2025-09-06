@@ -10,7 +10,7 @@ Gave 30-45 minute presentations on single-dish radio astronomy and very long bas
 
 
 **Green Bank Telescope Observer Training Workshop** - Presenter, Observing Group Leader\
-*2023 - Present // Green Bank Observatory, Green Bank WV*\
+*2023 - 2025 // Green Bank Observatory, Green Bank WV*\
 Demonstrated observing procedures with the Green Bank Telescope. Assisted small groups with observation preparation, observing, and data reduction. Observations included spectral line, mapping, and pulsar observations at high (>20GHz) and low (<1.4GHz) frequencies using a 100m-diameter radio telescope. 
 
 
