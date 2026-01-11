@@ -1,6 +1,6 @@
 ## LEADERSHIP
 **Green Bank Observatory Rope Rescue Team, Volunteer Responder**\
-*2024-present // Green Bank, WV*\
+*2024-2025 // Green Bank, WV*\
 Trained to respond to emergencies at the Green Bank Observatory, an extremely remote rural location. Due to the nature of work performed onsite, emergencies can occur up to 500ft in the air, in areas accessible only with a rope and harness, and with limited medical personnel available. 
 
 **Smith College Jewish Community, Co-Chair**\
