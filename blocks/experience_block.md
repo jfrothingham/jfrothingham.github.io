@@ -1,6 +1,6 @@
 ## EMPLOYMENT
 **Research Assistant, Hat Creek Radio Observatory, SETI Institute**\
-*December 2025 - ?? // Hat Creek CA*\
+*December 2025 - Present // Hat Creek CA*\
 Coming soon :)
 
 **Scientific Data Analyst, Green Bank Observatory**\
