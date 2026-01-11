@@ -11,4 +11,3 @@
 
 :[Publications](./blocks/publications_block.md)
 
-
